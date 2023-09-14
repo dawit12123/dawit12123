@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dawit12123
+- 👋 Hi, I’m Dawit Girma
 - 👀 I’m full stack developer 
 - 
 - 🌱 I'm currently develop on MERN stack and MINE stack 
