@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @dawit12123
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning angular and reactjs
+- 👀 I’m full stack developer 
+- 
+- 🌱 I'm currently develop on MERN stack and MINE stack 
+- I have experienced on php,Javascript,Html,css 
+- and database frame work of Mongo,Mysql
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me with dawitgirma71@gmail.com
 - 
