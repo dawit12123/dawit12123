@@ -30,7 +30,7 @@ Here are some of the websites and mobile applications I have developed:
 - [Berhan Insurance](https://berhaninsurance.com) - this website made for big insurance company berhan insurance for their company profile and job application.
 - [Lasta Pictures](https://lastapictures.com) - this website is made for movie production company used to promote thir company and their work and to post thier blog.
 - [E learning website](https://teyaqi-awaqi.edu.et.com) - it's an e-learning website that is made for spritual course used to provide free and paid course.
-- [Tenafirst Mobile App] (https://play.google.com/store/apps/details?id=com.ahaduweb.tenafirst&hl=en&gl=US) :- this app is for health care plaform that is used to appointment for clinical service in the country level.
+- [Tenafirst Mobile App](https://play.google.com/store/apps/details?id=com.ahaduweb.tenafirst&hl=en&gl=US) :- this app is for health care plaform that is used to appointment for clinical service in the country level.
 
 ## 📫 Contact Me
 
