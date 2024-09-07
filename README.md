@@ -1,5 +1,3 @@
-Certainly! Here's an example of a profile README for your GitHub:
-
 # Hi there, I'm Dawit Girma 👋
 
 I am a skilled full stack developer with expertise in Laravel, Vue, ReactJS, Flutter, HTML, CSS, and PHP. Over the past 3 years, I have successfully developed and delivered multiple websites and mobile applications for various companies. Additionally, I have experience with cloud services such as GCloud, AWS, Cpanel, Spanel, and serverless technologies like Docker. I am also proficient in WordPress advanced theme code level customization and plugin development, as well as Joomla 4.
