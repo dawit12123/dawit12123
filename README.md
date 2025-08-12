@@ -4,7 +4,7 @@ I am a skilled full stack developer with expertise in Laravel, Vue, ReactJS, Flu
 
 ## 🚀 Skills and Technologies
 
-- **Backend**: Laravel, PHP, Nodejs
+- **Backend**: Laravel, PHP, Nodejs, Go
 - **Frontend**: Vue.js, ReactJS, HTML, CSS, JavaScript
 - **Mobile Development**: Flutter
 - **Cloud Services**: GCloud, AWS, Cpanel, Spanel
